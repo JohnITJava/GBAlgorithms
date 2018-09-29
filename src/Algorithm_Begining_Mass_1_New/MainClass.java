@@ -25,5 +25,4 @@ public class MainClass {
             System.out.printf("%d ", i);
         }
     }
-}
-smth wronh t tocommit
+} //else matter
