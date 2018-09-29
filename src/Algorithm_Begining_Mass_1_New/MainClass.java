@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/*
+### 1. Описать простейшие алгоритмы
+#### 1.1. Возведение в степень используя чётность степени
+#### 1.2. Поиск минимального элемента в массиве
+#### 1.3. Нахождение среднего арифметического массива
+### 2. Подсчитать сложность описанных алгоритмов
+### 3. Какие правила подсчёта применялись, оставьте комментарии в коде
+ */
+
 public class MainClass {
     public static void main(String[] args) {
         Cat c = new Cat(); // ссылка на область памяти @123abc
@@ -25,4 +34,5 @@ public class MainClass {
             System.out.printf("%d ", i);
         }
     }
-}
+}//smth in feature
+//esfsdfsdf
