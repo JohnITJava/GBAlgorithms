@@ -1,4 +1,4 @@
-package Algorithm_HW;
+package Algorithm_HW.Lesson1;
 
 /**
  * Created by Ivanov John 29.09.2018.
